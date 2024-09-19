@@ -1,3 +1,3 @@
-# [Mamba-for-soil-moisture-estimation](coming soon)
+# Mamba-for-soil-moisture-estimation
 - Soil moisture estimation using new [mamba](https://github.com/state-spaces/mamba) model
-- mamba is an alternative to LSTM
+- mamba may be an alternative to LSTM
